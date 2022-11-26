@@ -1,4 +1,19 @@
-html {
-    font-size: 50px;
+h1 {
+    font-size: 60px;
+    color:fuchsia;
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
     color: blue;
+    text-decoration: underline;
+    text-align: center;
+}
+img {
+    width: 500px;
+    height: 500px;
+    display:block;
+    margin:auto;
 }
