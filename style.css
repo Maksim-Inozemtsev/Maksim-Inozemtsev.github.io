@@ -1,13 +1,13 @@
 h1 {
     font-size: 60px;
-    color:fuchsia;
+    color:blue;
     font-style: italic;
     text-align: center;
 }
 
 p {
     font-size: 30px;
-    color: blue;
+    color: orange;
     text-decoration: underline;
     text-align: center;
 }
